@@ -19,6 +19,21 @@ and decision boundaries are plotted to visualize how classification changes.
 pip install scikit-learn matplotlib numpy
 
 ## Results
+## Results
+
+Below are the decision boundary plots for different values of k:
+
+- **k = 1**
+![Decision Boundary k=1](knn_k1.png)
+
+- **k = 3**
+![Decision Boundary k=3](knn_k3.png)
+
+- **k = 5**
+![Decision Boundary k=5](knn_k5.png)
+
+- **k = 10**
+![Decision Boundary k=10](knn_k10.png)
 
 | k  | Train Accuracy | Test Accuracy |
 |----|----------------|---------------|
