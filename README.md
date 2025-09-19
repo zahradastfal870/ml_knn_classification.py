@@ -34,14 +34,15 @@ pip install scikit-learn matplotlib numpy
 - **k=10**: Too smooth, risk of underfitting.  
 
 ### Decision Boundary Plots
+
 - **k=1**  
-![Decision Boundary k=1](knn_k1.png)
+![Decision Boundary k=1](https://raw.githubusercontent.com/zahradastfal870/ml_knn_classification.py/main/knn_k1.png)
 
 - **k=3**  
-![Decision Boundary k=3](knn_k3.png)
+![Decision Boundary k=3](https://raw.githubusercontent.com/zahradastfal870/ml_knn_classification.py/main/knn_k3.png)
 
 - **k=5**  
-![Decision Boundary k=5](knn_k5.png)
+![Decision Boundary k=5](https://raw.githubusercontent.com/zahradastfal870/ml_knn_classification.py/main/knn_k5.png)
 
 - **k=10**  
-![Decision Boundary k=10](knn_k10.png)
+![Decision Boundary k=10](https://raw.githubusercontent.com/zahradastfal870/ml_knn_classification.py/main/knn_k10.png)
