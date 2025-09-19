@@ -35,4 +35,7 @@ for n_neighbors in n_neighbors_list:
     plt.xlabel('Sepal length')
     plt.ylabel('Sepal width')
     plt.title(f"Machine Learning • kNN Decision Boundary (k = {n_neighbors})")
-    plt.show()
+    plt.savefig("knn_k1.png")  
+    plt.savefig("knn_k3.png")
+    plt.savefig("knn_k5.png")
+    plt.savefig("knn_k10.png")
